@@ -56,6 +56,25 @@ rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 ~/.ros/rtabmap.db
 ```
 
+## World
+A single floor with many details (furniture, plants, portraits, boxes etc.)
+
+<p align="center">
+  <img width="460" height="300" src="images/world_global.png">
+  <br>World - a global overview
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="images/world_local_1.png">
+  <br>World - local view
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="images/world_local_2.png">
+  <br>World - local view #2
+</p>
+
+
 ## Nodes
 Three nodes are essential for where am I:
 * `rtabmap` - performs slam  ([RTAB-Map](http://wiki.ros.org/rtabmap_ros))
