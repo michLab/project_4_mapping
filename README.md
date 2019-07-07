@@ -1,6 +1,6 @@
 # Map my world
 
-A fourth of project from Udaicty Robotics Software Engineer Nanodegree.
+A fourth project from Udacity Robotics Software Engineer Nanodegree.
 A robot performs RTAB-MAP SLAM using odometry and laser scans.
 
 <p align="center">
