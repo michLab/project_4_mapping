@@ -51,6 +51,10 @@ cd path_to_my_workspace/workspace_name
 source devel/setup.bash
 rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 ```
+* Final map (database) is stored in default location:
+```sh
+~/.ros/rtabmap.db
+```
 
 ## Nodes
 Three nodes are essential for where am I:
